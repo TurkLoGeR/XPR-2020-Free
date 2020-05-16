@@ -9,5 +9,6 @@ and more (Read the "About") in the program
 # Fork & Support 🥰, for the source 🥰
 Tutorial Video on Windows, Linux , Android: https://www.youtube.com/watch?v=771xYCRBOaQ
 Tutorial Video 2 on MAC : https://www.youtube.com/watch?v=VtNMVM5tgcM
+
 IF apk builder lags / Stucks
 delete thw whole folder and re-extract that Rar file that contains "App_Resources" & "BlueEagleXPR.exe" & "2 dlls files" & some txt files for mode re-configuraton
