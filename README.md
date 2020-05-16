@@ -8,6 +8,7 @@ and also can be entered manually
 and more (Read the "About") in the program
 # Fork & Support 🥰, for the source 🥰
 Tutorial Video on Windows, Linux , Android: https://www.youtube.com/watch?v=771xYCRBOaQ
+
 Tutorial Video 2 on MAC : https://www.youtube.com/watch?v=VtNMVM5tgcM
 
 IF apk builder lags / Stucks
