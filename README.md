@@ -1,6 +1,6 @@
 # XPR-2020-Free
 # [Android RAT] [Windows RAT] [Linux RAT] [MAC RAT] 
-This is simple of a cross platform RAT tool which is programmed in VB.net and builds out trojans (.exe , .apk &amp; .jar) and controls the victims running those trojans on same port at same time , and this tool is now registerd to be free , and on the user responsibility 
+This is a cross platform RAT tool [Android RAT] [Windows RAT] [Linux RAT] [MAC RAT]  which is programmed in VB.net and builds out trojans (.exe , .apk &amp; .jar) and controls the victims running those trojans on same port at same time , and this tool is now registerd to be free , and on the user responsibility 
 
 # Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
