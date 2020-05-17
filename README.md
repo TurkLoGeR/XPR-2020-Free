@@ -4,6 +4,14 @@ This is a cross platform RAT tool [Android RAT] [Windows RAT] [Linux RAT] [MAC R
 
 This is For Educational Pusposes Only ! and User is responsibile for his usage of this Tool
 
+For Example : 
+- Parental Control , Track what your children are doing.
+- Business Administration , Monitor what employees are doing.
+- School/Institutions , for students
+- Personal Control and File Backup , Make sure no one is using your computer when you are away.
+- Other Noble Purposes
+
+
 # Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
 bug fix : it is now configured to fetch it automatically 
