@@ -2,7 +2,7 @@
 # [Android RAT] [Windows RAT] [Linux RAT] [MAC RAT] 
 This is a cross platform RAT tool [Android RAT] [Windows RAT] [Linux RAT] [MAC RAT]  which is programmed in VB.net to be a user friendly and easy to use and builds out trojans (.exe , .apk &amp; .jar) and controls the victims running those trojans on same port at same time , and this tool is now registerd to be free , and on the user responsibility 
 
-This is For Educational Pusposes Only ! and User is responsibile for his usage of this Tool
+This is For Educational Purposes Only ! and User is responsible for his usage of this Tool
 
 For Example : 
 - Parental Control , Track what your children are doing.
