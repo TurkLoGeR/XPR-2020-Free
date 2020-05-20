@@ -22,5 +22,5 @@ Tutorial Video Spy on Windows, Linux , Android: https://www.youtube.com/watch?v=
 
 Tutorial Video 2 Spy on MAC : https://www.youtube.com/watch?v=VtNMVM5tgcM
 
-IF apk builder lags / Stucks
-delete thw whole folder and re-extract that Rar file that contains "App_Resources" & "BlueEagleXPR.exe" & "2 dlls files" & some txt files for mode re-configuraton
+# IF apk builder lags / Stucks
+# delete thw whole folder and re-extract that Rar file that contains "App_Resources" & "BlueEagleXPR.exe" & "2 dlls files" & some txt files for mode re-configuraton
