@@ -11,6 +11,8 @@ For Example :
 - Personal Control and File Backup , Make sure no one is using your computer when you are away.
 - Other Noble Purposes
 
+Stay updated with my blog : 
+https://blueeaglehacks.blogspot.com/2020/05/blue-eagle-multi-os-rat.html
 
 # Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
