@@ -14,11 +14,16 @@ For Example :
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/05/blue-eagle-multi-os-rat.html
 
-# Old version Bug : file manager not work on MAC and some OS (sun os) 
+Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
 bug fix : it is now configured to fetch it automatically 
 and also can be entered manually 
 and more (Read the "About") in the program
+
+# New Update : 
+# some android clients / victims was connecting but not working , [Bug Fixed]
+# bug fixed with modern android / turn off playprotect to test your own , you also can cyrpt it and make it FUD as in some youtube tutorials 
+
 # Fork & Support 🥰, for the source 🥰
 Tutorial Video Spy on Windows, Linux , Android: https://www.youtube.com/watch?v=771xYCRBOaQ
 
