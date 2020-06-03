@@ -4,7 +4,7 @@
 </p>
 
 
-# XPR-2020-Free [Android RAT / Windows RAT / Linux RAT / MAC RAT] 
+# 💿 XPR-2020-Free [Android RAT / Windows RAT / Linux RAT / MAC RAT] 
 # [Android RAT] [Windows RAT] [Linux RAT] [MAC RAT] 
 This is a cross platform RAT tool [Android RAT] [Windows RAT] [Linux RAT] [MAC RAT]  which is programmed in VB.net to be a user friendly and easy to use and builds out trojans (.exe , .apk &amp; .jar) and controls the victims running those trojans on same port at same time , and this tool is now registerd to be free , and on the user responsibility 
 
@@ -26,7 +26,7 @@ bug fix : it is now configured to fetch it automatically
 and also can be entered manually 
 and more (Read the "About") in the program
 
-# New Update : 
+# 💿 New Update : 
 # some android clients / victims was connecting but not working , [Bug Fixed]
 # bug fixed with modern android / turn off playprotect to test your own , you also can cyrpt it and make it FUD as in some youtube tutorials 
 
