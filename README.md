@@ -33,8 +33,8 @@ and more (Read the "About") in the program
 # Fork & Support 🥰, for the source 🥰
 [Tutorial Video Spy on Windows, Linux , Android](https://www.youtube.com/watch?v=771xYCRBOaQ "Tutorial 1") 
 
+[Tutorial Video 2 Spy on MAC ](https://www.youtube.com/watch?v=VtNMVM5tgcM "Tutorial 2") 
 
-Tutorial Video 2 Spy on MAC : https://www.youtube.com/watch?v=VtNMVM5tgcM
 
 # IF apk builder lags / Stucks
 # delete thw whole folder and re-extract that Rar file that contains "App_Resources" & "BlueEagleXPR.exe" & "2 dlls files" & some txt files for mode re-configuraton
