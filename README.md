@@ -20,7 +20,14 @@ For Example :
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/05/blue-eagle-multi-os-rat.html
 
-[![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](bitcoin:3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx)
+[![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)] 
+# Support us please 🥰  
+Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
+
+[![Patreaon Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/patreon_button.png)](Working On it :))
+# Support us please 🥰 for more & more  
+
+
 
 Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
