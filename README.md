@@ -20,6 +20,7 @@ For Example :
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/05/blue-eagle-multi-os-rat.html
 
+[![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)]()
 Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
 bug fix : it is now configured to fetch it automatically 
