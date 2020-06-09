@@ -27,7 +27,7 @@ Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
 [![Patreaon Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/patreon_button2.png)](https://www.patreon.com/BlueEagle)
 # Support us please 🥰 for more & more  
 
-
+[![Facebook Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/facebook_button.png)](https://www.facebook.com/NsBleeD/posts/)
 
 Old version Bug : file manager not work on MAC and some OS (sun os) 
 why ? due to difference in path seprators for the OS . 
